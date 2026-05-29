@@ -1,6 +1,6 @@
 # Trajectory-Sampling Predictive Controller
 
-**Author:** Mohamed Elgouhary
+**Author:** Mohamed Elgouhary  
 **Project:** TSPC Controller for F1TENTH-style Autonomous Driving
 
 This repository contains a ROS2 Python implementation of a trajectory-sampling / predictive-control style controller for F1TENTH-style autonomous driving.
