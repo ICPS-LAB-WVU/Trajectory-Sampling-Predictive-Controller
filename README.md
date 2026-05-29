@@ -153,9 +153,9 @@ robotics
 
 This repository is developed and maintained by:
 
-**Mohamed Elgouhary**
-PhD Student and Graduate Research Assistant
-Lane Department of Computer Science and Electrical Engineering
+**Mohamed Elgouhary**  
+PhD Student and Graduate Research Assistant  
+Lane Department of Computer Science and Electrical Engineering  
 West Virginia University
 
 ## License and Attribution
