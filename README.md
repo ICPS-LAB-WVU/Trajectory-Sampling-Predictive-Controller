@@ -78,7 +78,7 @@ Clone the repository into the `src` folder of your ROS2 workspace:
 
 ```bash
 cd ~/your_ros2_ws/src
-git clone https://github.com/YOUR_USERNAME/tspc_controller.git
+git clone https://github.com/ICPS-LAB-WVU/Trajectory-Sampling-Predictive-Controller.git
 cd ..
 rosdep install --from-paths src --ignore-src -r -y
 colcon build
