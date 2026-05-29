@@ -1,0 +1,44 @@
+tspc_node:
+  ros__parameters:
+    real_environment: false
+    csv_file: "Catalunya_fast"
+
+    candidate_speed: 4.0
+    speed_scale: 1.0
+    use_csv_speed: true
+
+    input_cost_accel: 0.01
+    input_cost_steering: 5.0
+    input_rate_cost_accel: 0.01
+    input_rate_cost_steering: 5.0
+
+    state_cost_x: 13.5
+    state_cost_y: 13.5
+    state_cost_v: 5.5
+    state_cost_yaw: 13.0
+
+    final_state_cost_x: 13.5
+    final_state_cost_y: 13.5
+    final_state_cost_v: 5.5
+    final_state_cost_yaw: 13.0
+
+    horizon: 8
+    search_idx: 20
+    dt: 0.1
+    step_length: 0.2
+
+    veh_length: 0.58
+    veh_width: 0.31
+    wheelbase: 0.33
+    min_steer: -0.4189
+    max_steer: 0.4189
+    max_steer_rate: 3.14159
+    max_speed: 14.5
+    min_speed: 3.777
+    max_accel: 5.0
+
+    downsampling: 10
+    max_sight: 5.0
+    gap_threshold: 15.0
+    pred_history: 20
+    max_gap_safe_dist: 1.8
